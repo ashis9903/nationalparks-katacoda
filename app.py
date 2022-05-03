@@ -1,5 +1,3 @@
-import mod_wsgi.server
-
 mod_wsgi.server.start(
   '--log-to-terminal',
   '--log-level', 'info',
